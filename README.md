@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ajay singh</h1>
-
 <h3 align="center">A passionate Mern stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/101c98f67298425e9875ecfac1c25efccaf3c966db04609cc4f4e92d6bd12c32/68747470733a2f2f632e74656e6f722e636f6d2f4e4f594633663832625f6741414141432f70726f6772616d6d65722e676966">
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaysinghpanwar2002&label=Profile%20views&color=0e75b6&style=flat" alt="ajaysinghpanwar2002" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajaysinghpanwar2002" alt="ajaysinghpanwar2002" /></a> </p>
 
